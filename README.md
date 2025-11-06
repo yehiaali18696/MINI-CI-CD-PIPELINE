@@ -15,3 +15,4 @@ The goal of this project is to integrate all these components into a single pipe
 - Yehia Ali - Graduation Project 2026
 
 # test CI
+trigger ci Thu Nov  6 10:04:39 PM CET 2025
