@@ -14,3 +14,4 @@ The goal of this project is to integrate all these components into a single pipe
 ## Author
 - Yehia Ali - Graduation Project 2026
 
+# test CI
