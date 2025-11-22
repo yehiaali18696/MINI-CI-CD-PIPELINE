@@ -3,7 +3,7 @@
 This is my graduation project where I apply the fundamentals of DevOps by building a mini CI/CD pipeline using different tools.
 
 ## Project Components
-- Git & GitHub: Version control and source code management.
+- Git & GiiiitHub: Version control and source code management.
 - Docker: Building and running containers.
 - Ansible: Configuration management and automation.
 - CI/CD Concepts: Understanding Continuous Integration & Continuous Deployment.
